@@ -13,11 +13,11 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Jump 'n Bump icon](game.libretro.jumpnbump/resources/icon.png)
 
 ### Fanart
 
-Help make me fanart!
+![Jump 'n Bump fanart](game.libretro.jumpnbump/resources/fanart.jpg)
 
 ### Screenshots
 
