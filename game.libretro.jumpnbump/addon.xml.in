@@ -23,6 +23,8 @@
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
 		<summary lang="en_GB">Jump &apos;n Bump</summary>
+		<summary lang="es_ES">Jump &apos;n Bump</summary>
 		<description lang="en_GB">This is a game for the whole family. You play cute fluffy little bunnies and hop on each other&apos;s heads.</description>
+		<description lang="es_ES">Este es un juego para toda la familia. Juegas con unos lindos conejitos esponjosos que saltan sobre las cabezas de los otros.</description>
 	</extension>
 </addon>
