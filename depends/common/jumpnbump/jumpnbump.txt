@@ -1,1 +1,1 @@
-jumpnbump https://github.com/libretro/jumpnbump-libretro/archive/25efe413d2159177e54323fb0b9d34966ca019c9.tar.gz
+jumpnbump https://github.com/libretro/jumpnbump-libretro/archive/2cc840155ce4bf42b2e9e0ef3854b32d534e607e.tar.gz
