@@ -23,3 +23,13 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "This is a game for the whole family. You play cute fluffy little bunnies and hop on each other's heads."
 msgstr ""
+
+# Empty string with ID 30000
+
+msgctxt "#30001"
+msgid "Flip Level"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Flies"
+msgstr ""
