@@ -24,3 +24,12 @@ msgstr "兔子大战"
 msgctxt "Addon Description"
 msgid "This is a game for the whole family. You play cute fluffy little bunnies and hop on each other's heads."
 msgstr "这是一个全家人玩的游戏。你们扮演可爱的毛茸茸的小兔子，在彼此的头上跳跃。"
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "Flip Level"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Flies"
+msgstr ""

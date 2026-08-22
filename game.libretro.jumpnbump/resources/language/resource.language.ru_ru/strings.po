@@ -24,3 +24,12 @@ msgstr "Jump 'n Bump"
 msgctxt "Addon Description"
 msgid "This is a game for the whole family. You play cute fluffy little bunnies and hop on each other's heads."
 msgstr "Это игра для всей семьи. Вы играете за милых пушистых кроликов и прыгаете друг другу на головы."
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "Flip Level"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Flies"
+msgstr ""
