@@ -8,8 +8,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -19,8 +19,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
